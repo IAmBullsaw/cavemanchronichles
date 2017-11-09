@@ -1,29 +1,99 @@
 # Design
 
+Brainstormed ideas about the design and when they should be implemented.
+
+-------------------------------------------------------------------------------
+
 # versions
 
+The versions are named accoring to greek letters and alpha being the first version ... however nollpha trumphs alpha.
+
+## nollpha
+
+### character
+* walks left and right
+* can jump once (no double jumps etc.)
+
+### environment
+* there is ground
+* charater can interact with ground like ... standing on it
+
 ## alpha
-* hur få resurser?
-* caveman
-* crafting system anywhere
+
+-------------------------------------------------------------------------------
+
+### camera
+* it follows the caveman
+
+### character
+* close combat weapon
+* infinitely large inventory
+
+### resources
+* there is one resource
+* it lies on the ground
+* character can pick it up
+* character gets one more resource of that kind when picking it up
+
+### environment
+* one whole level / world statically loaded
+
+### enemies
+* there is an enemy
+
+### logic
 * damage-system med rolls etc.
-* en hel värld
-* following camera
-* oändligt stor inventory
-* närststridsvapen
+* aquire resources via drops
+
+### crafting
+* crafting system anywhere
 
 ## beta
+
+-------------------------------------------------------------------------------
+
+### character
 * left / right animations. Titta snett upp etc.
-* skin bear / slakta / droppas och loot-boxes
-* couch coop
-* sol / måne
-* Väder
+
+### environment
+
+
+### camera
+
+### character
 * kastvapen
-* fiender djur/dinos || environment var är vi ens
-* fiender random generated stats
 * food-bar -- hidden ? märker det på sakta gång / ljud något
-* save / load game ??? död man ligger
+
+### resources
+
+### environment
+* setting
+* sun and moon
+* weather
+
+### enemies
+* more enemies
+* fiender random generated stats
+
+### logic
+* couch coop
+* loot-boxes
+* skin enemies for resources
 * level system?=?=?
+* save / load game ??? död man ligger
+
+### crafting
+
+## gamma
+
+-------------------------------------------------------------------------------
+
+## delta
+
+-------------------------------------------------------------------------------
 
 ## epsilon
+
+-------------------------------------------------------------------------------
+
 * crt-skärm filter
